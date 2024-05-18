@@ -22,7 +22,7 @@ export default function Navbar() {
       color: '#fff',
     }}>
       <Link href="/home.html">
-        <p style={{ color: '#fff', textDecoration: 'none' }}>Search</p>
+        <p style={{ color: '#fff', textDecoration: 'none' }}>Home</p>
       </Link>
       <Link href="/search.html">
         <p style={{ color: '#fff', textDecoration: 'none' }}>Search</p>
