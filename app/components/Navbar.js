@@ -21,6 +21,9 @@ export default function Navbar() {
       backgroundColor: '#333',
       color: '#fff',
     }}>
+      <Link href="/home.html">
+        <p style={{ color: '#fff', textDecoration: 'none' }}>Search</p>
+      </Link>
       <Link href="/search.html">
         <p style={{ color: '#fff', textDecoration: 'none' }}>Search</p>
       </Link>
