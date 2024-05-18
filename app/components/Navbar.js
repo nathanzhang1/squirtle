@@ -22,13 +22,13 @@ export default function Navbar() {
       color: '#fff',
     }}>
       <Link href="/search.html">
-        <a style={{ color: '#fff', textDecoration: 'none' }}>Search</a>
+        <p style={{ color: '#fff', textDecoration: 'none' }}>Search</p>
       </Link>
       <Link href="/messages">
-        <a style={{ color: '#fff', textDecoration: 'none' }}>Messages</a>
+        <p style={{ color: '#fff', textDecoration: 'none' }}>Messages</p>
       </Link>
       <Link href="/profile">
-        <a style={{ color: '#fff', textDecoration: 'none' }}>Profile</a>
+        <p style={{ color: '#fff', textDecoration: 'none' }}>Profile</p>
       </Link>
     </nav>
   );
